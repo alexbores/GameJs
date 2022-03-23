@@ -1,2 +1,2 @@
 # GameJs
-Test game using canvas html and js
+Test game using canvas html and phaser.js
